@@ -8,7 +8,7 @@ To understand our internals better, we refer readers to our accepted papers on G
 ### Performance Benefits of GRainDB
 Our evaluations of GRainDB on LDBC SNB showed that, by integrating predefined joins, GRainDB can outperform vanilla DuckDB, and closed the performance gap with [GraphflowDB](http://graphflow.io), a specialized GDBMS.
 
-<img width="400" height="400" src="figures/snb-m.png" />
+<img width="300" height="300" src="figures/snb-m.png" />
 
 To run our evaluations, please visit our [github repo](https://github.com/graindb/graindb), and follow our instructions to download the source code and dataset.
 After compilation, simply run the following command to get our performance benefits.
@@ -22,7 +22,7 @@ Please visit our papers for lots of more detailed evaluation results, and intere
 We provide a specialized [demonstration repo](https://github.com/graindb/graindb-demonstration), in which users can give a try on our graph modeling and visualization capabilities on top of a RDBMS.
 
 ### Talks
-- [LDBC Fourteenth TUC Meeting](https://ldbcouncil.org/event/fourteenth-tuc-meeting/)
+- [LDBC Fourteenth TUC Meeting](https://ldbcouncil.org/event/fourteenth-tuc-meeting/) (by [Semih Salihoglu](https://cs.uwaterloo.ca/~ssalihog)).
 
 [![LDBC TUC Meeting Video](https://img.youtube.com/vi/FFK3y6vPHJs/1.jpg)](https://youtu.be/FFK3y6vPHJs)
 
