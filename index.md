@@ -26,7 +26,9 @@ We provide a specialized [demonstration repo](https://github.com/graindb/graindb
 
 [![LDBC TUC Meeting Video](https://img.youtube.com/vi/FFK3y6vPHJs/1.jpg)](https://youtu.be/FFK3y6vPHJs)
 
-- Our presentation at [CIDR 2022](http://cidrdb.org/cidr2022/program.html) is coming soon.
+- Our presentation at [CIDR 2022](http://cidrdb.org/cidr2022/program.html).
+
+[![CIDR Presentation Video](https://img.youtube.com/vi/KtbZ6YEDvo8/1.jpg)](https://youtu.be/KtbZ6YEDvo8)
 
 ### Contact
-Please feel free to submit any bug reports as issues and contact me with any questions, feedback or suggestions: guod.jin@gmail.com
+Please feel free to submit any bug reports as issues and contact me with any questions, feedback or suggestions: **guod.jin@gmail.com**
